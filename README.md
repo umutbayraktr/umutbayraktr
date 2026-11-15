@@ -27,4 +27,4 @@
 ### İletişim
 
 * **GitHub:** [github.com/umutbayraktr](https://github.com/umutbayraktr)
-* **LinkedIn:** (https://www.linkedin.com/in/umut-bayraktar-647a99211/) 
+* **LinkedIn:** https://www.linkedin.com/in/umut-bayraktar-647a99211/
